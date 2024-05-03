@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Interplanetary Mission Trajectory Optimization: a Tkinter-based graphical user interface (GUI) application to visualize spacecraft trajectories for space missions. The application provides users with an intuitive interface to interactively explore and analyze trajectory data, enabling mission planning and visualization.
 **
 
-- 🌱 I’m currently learning **HOw to integrate STK & C++ into my project**
+- 🌱 I’m currently learning **How to integrate STK & C++ into my project**
 
 - 👯 I’m looking to collaborate on **GNC Simulation projects**
 
