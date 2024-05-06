@@ -4,14 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakayla-r&label=Profile%20views&color=0e75b6&style=flat" alt="jakayla-r" /> </p>
 
-- 🔭 I’m currently working on **Interplanetary Mission Trajectory Optimization: a Tkinter-based graphical user interface (GUI) application to visualize spacecraft trajectories for space missions. The application provides users with an intuitive interface to interactively explore and analyze trajectory data, enabling mission planning and visualization.
-**
+- 🔭 I’m currently working on Interplanetary Mission Trajectory Optimization: a Tkinter-based graphical user interface (GUI) application to visualize spacecraft trajectories for space missions. The application provides users with an intuitive interface to interactively explore and analyze trajectory data, enabling mission planning and visualization.
 
-- 🌱 I’m currently learning **How to integrate STK & C++ into my project**
+- 🌱 I’m currently learning **How to integrate STK & C++ into my project
 
-- 👯 I’m looking to collaborate on **GNC Simulation projects**
+- 👯 I’m looking to collaborate on GNC Simulation projects
 
-- 🤝 I’m looking for help with **STK integration with MATLAB & Python**
+- 🤝 I’m looking for help with STK integration with MATLAB & Python
 
 - 📫 How to reach me **jakayla2022@my.fit.edu**
 
