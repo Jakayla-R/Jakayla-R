@@ -15,3 +15,6 @@ Space Systems Engineer specializing in satellite operations, telemetry analysis,
 
 ## Current Work
 Building analytical tools for satellite operators to predict component failures and optimize mission planning.
+
+## Contact Me 
+Robinson.Jakayla@protonmail.com
