@@ -18,3 +18,4 @@ Building analytical tools for satellite operators to predict component failures 
 
 ## Contact Me 
 Robinson.Jakayla@protonmail.com
+https://cal.com/jakaylarobinson
