@@ -1,7 +1,7 @@
 # Jakayla Robinson
-**Satellite Consultant**
+**Space Systems Consultant | Mission Architecture & Satellite Operations****
 
-I catch expensive satellite problems before they become failures. Telemetry analysis, mission planning, attitude control systems.
+I help satellite operators and NewSpace companies with telemetry analysis, mission planning, and constellation design.
 
 ## What I Do
 - Spot momentum wheel saturation before it burns through your propellant budget
