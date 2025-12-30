@@ -1,23 +1,34 @@
 # Jakayla Robinson
+**Satellite Consultant**
 
-Space Systems Engineer specializing in satellite operations, telemetry analysis, and mission architecture.
+I catch expensive satellite problems before they become failures. Telemetry analysis, mission planning, attitude control systems.
 
-## Technical Focus
-- Satellite health monitoring and predictive maintenance
-- Mission trajectory optimization and orbital mechanics
-- Constellation design and space systems integration
+## What I Do
+- Spot momentum wheel saturation before it burns through your propellant budget
+- Analyze telemetry patterns that indicate component failures weeks before they happen
+- Design mission trajectories that work with actual launch vehicles, not fantasy ones
+- Build constellation architectures that don't require 47 meetings to understand
 
 ## Background
-- MS Space Systems Management, Florida Institute of Technology
-- BS Applied Physics, University of Alabama, Birmingham
-- Research: N-body simulations, SETI Institute
-- STK Level 1 Certified
+- **MS Space Systems Management** - Florida Institute of Technology
+- **BS Applied Physics** - University of Alabama, Birmingham  
+- **STK Level 1 Certified**
 
-## Current Work
-Building analytical tools for satellite operators to predict component failures and optimize mission planning.
+## Work
+🛰️ **[Satellite Attitude Dynamics](https://github.com/Jakayla-R/satellite-attitude-dynamics)** - MATLAB simulation showing what momentum wheel saturation actually looks like
 
-## Contact Me 
-Robinson.Jakayla@protonmail.com
+📡 **[Astrodynamics MATLAB Examples](https://github.com/Jakayla-R/Astrodynamics-MATLAB-Examples)** - Sequential estimation, RTBP, rendezvous operations, genetic algorithms
 
-## Book Me
-https://cal.com/jakaylarobinson
+## Writing
+📝 **[Substack](https://substack.com/@jakaylarobinson)** - Space systems analysis and honest takes on working in aerospace
+
+## Contact
+📧 Robinson.Jakayla@protonmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jakaylarobinson/)  
+📅 [Book a call](https://cal.com/jakaylarobinson)
+
+---
+
+*Building Space Systems Analytics. You don't need NASA on your resume to understand how satellites work.*
+
+
