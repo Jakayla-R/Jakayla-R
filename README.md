@@ -1,5 +1,5 @@
 # Jakayla Robinson
-**Space Systems Consultant | Mission Architecture & Satellite Operations****
+**Space Systems Consultant | Mission Architecture & Satellite Operations**
 
 I help satellite operators and NewSpace companies with telemetry analysis, mission planning, and constellation design.
 
