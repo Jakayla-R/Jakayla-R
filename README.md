@@ -15,9 +15,7 @@ I help satellite operators and NewSpace companies with telemetry analysis, missi
 - **STK Level 1 Certified**
 
 ## Work
-🛰️ **[Satellite Attitude Dynamics](https://github.com/Jakayla-R/satellite-attitude-dynamics)** - MATLAB simulation showing what momentum wheel saturation actually looks like
-
-📡 **[Astrodynamics MATLAB Examples](https://github.com/Jakayla-R/Astrodynamics-MATLAB-Examples)** - Sequential estimation, RTBP, rendezvous operations, genetic algorithms
+🛰️ **[Satellite Attitude Dynamics](https://github.com/Jakayla-R/Satellite-Attitude-Dynamics-Simulation-Project)** - MATLAB simulation showing what momentum wheel saturation actually looks like
 
 ## Writing
 📝 **[Substack](https://substack.com/@jakaylarobinson)** - Space systems analysis and honest takes on working in aerospace
