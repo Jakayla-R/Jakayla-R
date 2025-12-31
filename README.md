@@ -29,6 +29,4 @@ I help satellite operators and NewSpace companies with telemetry analysis, missi
 
 ---
 
-*Building Space Systems Analytics. You don't need NASA on your resume to understand how satellites work.*
-
 
