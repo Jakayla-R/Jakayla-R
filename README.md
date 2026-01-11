@@ -21,9 +21,8 @@ I help satellite operators and NewSpace companies with telemetry analysis, missi
 📝 **[Substack](https://substack.com/@jakaylarobinson)** - Space systems analysis and honest takes on working in aerospace
 
 ## Contact
-📧 Robinson.Jakayla@protonmail.com  
+📧 jakayla@spacesystemsanalytics.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jakaylarobinson/)  
-📅 [Book a call](https://cal.com/jakaylarobinson)
 
 ---
 
