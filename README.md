@@ -1,5 +1,5 @@
 # Jakayla Robinson
-**Space Systems Consultant | Mission Architecture | Satellite Operations | GN&C Performance Analysis**
+**Space Systems Engineer | Mission Architecture | Satellite Operations | GN&C Performance Analysis**
 
 I help satellite operators and NewSpace companies with telemetry analysis, mission planning, and constellation design.
 
